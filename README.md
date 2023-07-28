@@ -3,7 +3,7 @@
 
 ## Preview
 
-<img src="preview.png"/>
+[![](preview.png)](https://jspdf-react-app.netlify.app/)
 
 ## Technologies used:
 
